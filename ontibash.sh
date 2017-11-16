@@ -3,5 +3,6 @@ cd ..
 mkdir donfred
 cd donfred
 touch pasito pasita benki
-ls donfred >> filelist.txt
+ls >> filelist.txt
+mv filelist.txt ../listefichdonfred
 
